@@ -9,6 +9,7 @@ function solution(n, lost, reserve) {
             i--;
         }
     }
+
     for (let i = 0; i < lost.length; i++) {
         let front = lost[i] - 1;
         let back = lost[i] + 1;
