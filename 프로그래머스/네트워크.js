@@ -1,3 +1,5 @@
+//[프로그래머스] 네트워크
+
 let answer = 0;
 let visited;
 
