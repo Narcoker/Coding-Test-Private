@@ -7,7 +7,7 @@ function dfs(numbers, target, sum, depth) {
         dfs(numbers, target, sum + numbers[depth], depth + 1);
         dfs(numbers, target, sum - numbers[depth], depth + 1);
     }
-    if (depth === numbers.length && sum === target) answer++;
+    else if (sum === target) answer++;
 }
 
 function solution(numbers, target) {
