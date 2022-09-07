@@ -20,3 +20,4 @@
 |22.08.29|프로그래머스|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
 |22.08.30|프로그래머스|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 |22.09.03|프로그래머스|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#qna)|
+|22.09.07|프로그래머스|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|
