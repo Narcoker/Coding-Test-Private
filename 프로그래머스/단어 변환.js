@@ -1,4 +1,4 @@
-// [프로그래머스] 단어변환
+// [프로그래머스] 단어 변환
 
 function solution(begin, target, words) {
     if (words.indexOf(target) === -1)
