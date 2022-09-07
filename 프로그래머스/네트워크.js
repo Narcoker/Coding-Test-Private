@@ -4,11 +4,9 @@ let visited;
 function dfs(computers, i) {
     visited[i] = true;
     for (let link = 0; link < computers[i].length; link++) {
-        if (computers[i][link] && visited[link] === false) {
+        if (computers[i][link] && visited[link] === false)
             dfs(computers, link);
-        }
     }
-
 }
 
 function solution(n, computers) {
@@ -21,4 +19,3 @@ function solution(n, computers) {
     }
     return answer;
 }
-console.log(solution(3, [[1, 1, 0], [1, 1, 1], [0, 1, 1]]));
