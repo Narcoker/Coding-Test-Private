@@ -5,6 +5,7 @@
 #### Keyword
 - Solved : 풀이 성공
 - Failed : 풀이 실패
+- Refact : 풀이 수정
 - Docs : 문서 수정
 
 #### Site
