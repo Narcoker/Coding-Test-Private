@@ -26,3 +26,4 @@
 |22.09.07|프로그래머스|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|
 |22.09.16|프로그래머스|[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)|
 |22.09.16|프로그래머스|[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|
+|22.09.16|프로그래머스|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|
