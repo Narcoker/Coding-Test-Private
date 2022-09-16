@@ -37,3 +37,4 @@
 |22.09.16|프로그래머스|[수박수박수박수박수박수](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|
 |22.09.16|프로그래머스|[가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
 |22.09.16|프로그래머스|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
+|22.09.16|프로그래머스|[문자열 내림차순으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|
