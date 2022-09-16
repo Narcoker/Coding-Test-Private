@@ -30,3 +30,4 @@
 |22.09.16|프로그래머스|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|
 |22.09.16|프로그래머스|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|
 |22.09.16|프로그래머스|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|
+|22.09.16|프로그래머스|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|
