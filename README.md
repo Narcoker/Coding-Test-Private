@@ -40,3 +40,4 @@
 |22.09.16|프로그래머스|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
 |22.09.16|프로그래머스|[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|
 |22.09.16|프로그래머스|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|
+|22.09.16|프로그래머스|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|
