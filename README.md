@@ -33,3 +33,4 @@
 |22.09.16|프로그래머스|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|
 |22.09.16|프로그래머스|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|
 |22.09.16|프로그래머스|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|
+|22.09.16|프로그래머스|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|
