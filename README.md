@@ -24,3 +24,4 @@
 |22.09.07|프로그래머스|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|
 |22.09.07|프로그래머스|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|
 |22.09.07|프로그래머스|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|
+|22.09.16|프로그래머스|[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)|
