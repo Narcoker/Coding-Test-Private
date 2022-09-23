@@ -49,3 +49,4 @@
 |22.09.23|프로그래머스|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|
 |22.09.23|프로그래머스|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|
 |22.09.23|프로그래머스|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|
+|22.09.23|프로그래머스|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|
