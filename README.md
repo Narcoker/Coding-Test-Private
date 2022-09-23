@@ -45,3 +45,4 @@
 |22.09.16|프로그래머스|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|
 |22.09.16|프로그래머스|[최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|
 |22.09.16|프로그래머스|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|
+|22.09.23|프로그래머스|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|
