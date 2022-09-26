@@ -55,3 +55,4 @@
 |22.09.23|프로그래머스|[소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)|🔵|
 |22.09.23|프로그래머스|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|🔵|
 |22.09.26|프로그래머스|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|🔵|
+|22.09.26|프로그래머스|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|🔵|
