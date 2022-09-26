@@ -9,6 +9,5 @@ function solution(s) {
         s = nextS.length.toString(2);
         changeCount++;
     }
-
     return [changeCount, zeroCount];
 }
