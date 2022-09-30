@@ -57,3 +57,4 @@
 |22.09.26|프로그래머스|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|🔵|
 |22.09.26|프로그래머스|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|🔵|
 |22.09.26|프로그래머스|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|🔵|
+|22.09.30|프로그래머스|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889|🔴|
