@@ -59,3 +59,4 @@
 |22.09.26|프로그래머스|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|🔵|
 |22.09.30|프로그래머스|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|🔴|
 |22.10.18|프로그래머스|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|🔵|
+|22.11.29|프로그래머스|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|🔵|
