@@ -61,3 +61,4 @@
 |22.10.18|프로그래머스|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|🔵|
 |22.11.29|프로그래머스|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|🔵|
 |22.11.29|프로그래머스|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|🔵|
+|22.11.29|프로그래머스|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|🔵|
