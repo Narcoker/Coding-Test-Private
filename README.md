@@ -62,3 +62,4 @@
 |22.11.29|프로그래머스|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|🔵|
 |22.11.29|프로그래머스|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|🔵|
 |22.11.29|프로그래머스|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|🔵|
+|22.11.30|프로그래머스|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|🔵|
