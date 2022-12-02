@@ -64,3 +64,4 @@
 |22.11.29|프로그래머스|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|🔵|
 |22.11.30|프로그래머스|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|🔵|
 |22.12.02|프로그래머스|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|🔴|
+|22.12.02|프로그래머스|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949#)|🔴|
