@@ -68,3 +68,4 @@
 |22.12.02|프로그래머스|[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|🔴|
 |22.12.06|프로그래머스|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|🔴|
 |22.12.06|프로그래머스|[[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|🔵|
+|22.12.06|프로그래머스|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|🔵|
