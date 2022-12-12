@@ -72,3 +72,4 @@
 |22.12.12|프로그래머스|[[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|🔵|
 |22.12.12|프로그래머스|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)|🔵|
 |22.12.12|프로그래머스|[[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|🔴|
+|22.12.12|프로그래머스|[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|🔴|
