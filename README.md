@@ -75,3 +75,4 @@
 |22.12.12|프로그래머스|[모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|🔴|
 |22.12.15|프로그래머스|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|🔵|
 |22.12.16|프로그래머스|[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|🔵|
+|22.12.16|프로그래머스|[2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|🔵|
