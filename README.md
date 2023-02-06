@@ -79,3 +79,4 @@
 |22.02.06|백준|[2750번: 수 정렬하기](https://www.acmicpc.net/problem/2750)|🔵|
 |22.02.06|백준|[2587번: 대표값2](https://www.acmicpc.net/problem/2587)|🔵|
 |22.02.06|백준|[25305번: 커트라인](https://www.acmicpc.net/problem/25305)|🔵|
+|22.02.06|백준|[2751번: 수 정렬하기2](https://www.acmicpc.net/problem/2751)|🔵|
