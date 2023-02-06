@@ -77,3 +77,4 @@
 |22.12.16|프로그래머스|[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|🔵|
 |22.12.16|프로그래머스|[2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|🔵|
 |22.02.06|백준|[2750번: 수 정렬하기](https://www.acmicpc.net/problem/2750)|🔵|
+|22.02.06|백준|[2587번: 대표값2](https://www.acmicpc.net/problem/2587)|🔵|
