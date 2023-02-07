@@ -4,6 +4,7 @@ function solution(s, skip, index) {
 
     for (let s of skip)
         skipAlpha = skipAlpha.replace(s, "");
+
     let tripleSkipAlpha = skipAlpha + skipAlpha + skipAlpha;
 
     for (let targetChar of s) {
@@ -12,4 +13,3 @@ function solution(s, skip, index) {
     }
     return answer;
 }
-
