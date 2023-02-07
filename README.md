@@ -82,3 +82,4 @@
 |22.02.06|백준|[2751번: 수 정렬하기2](https://www.acmicpc.net/problem/2751)|🔵|
 |22.02.07|프로그래머스|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|🔵|
 |22.02.07|백준|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|🔵|
+|22.02.07|백준|[설탕 배달](https://www.acmicpc.net/problem/2839)|🔵|
