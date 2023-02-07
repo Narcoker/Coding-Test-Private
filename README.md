@@ -84,3 +84,4 @@
 |22.02.07|백준|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|🔵|
 |22.02.07|백준|[설탕 배달](https://www.acmicpc.net/problem/2839)|🔵|
 |22.02.07|백준|[1로 만들기](https://www.acmicpc.net/problem/1463)|🔵|
+|22.02.07|백준|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|🔵|
