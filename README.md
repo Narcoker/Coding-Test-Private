@@ -87,3 +87,4 @@
 |22.02.07|백준|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|🔵|
 |22.02.08|백준|[RGB 거리](https://www.acmicpc.net/problem/1149)|🔵|
 |22.02.08|백준|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🔵|
+|22.02.08|백준|[가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)|🔵|
