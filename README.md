@@ -85,4 +85,5 @@
 |22.02.07|백준|[설탕 배달](https://www.acmicpc.net/problem/2839)|🔵|
 |22.02.07|백준|[1로 만들기](https://www.acmicpc.net/problem/1463)|🔵|
 |22.02.07|백준|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|🔵|
-|22.02.08|백준|[RGB 거리리](https://www.acmicpc.net/problem/1149)|🔵|
+|22.02.08|백준|[RGB 거리](https://www.acmicpc.net/problem/1149)|🔵|
+|22.02.08|백준|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🔵|
