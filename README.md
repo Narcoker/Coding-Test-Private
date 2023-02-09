@@ -90,3 +90,4 @@
 |22.02.08|백준|[가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)|🔵|
 |22.02.09|백준|[포도주 시식](https://www.acmicpc.net/problem/2156)|🔴|
 |22.02.09|백준|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|🔵|
+|22.02.09|백준|[이친수](https://www.acmicpc.net/problem/2193)|🔵|
