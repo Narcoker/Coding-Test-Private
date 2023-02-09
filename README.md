@@ -91,3 +91,4 @@
 |22.02.09|백준|[포도주 시식](https://www.acmicpc.net/problem/2156)|🔴|
 |22.02.09|백준|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|🔵|
 |22.02.09|백준|[이친수](https://www.acmicpc.net/problem/2193)|🔵|
+|22.02.09|백준|[정수 삼각형](https://www.acmicpc.net/problem/1932)|🔵|
