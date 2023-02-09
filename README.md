@@ -88,3 +88,4 @@
 |22.02.08|백준|[RGB 거리](https://www.acmicpc.net/problem/1149)|🔵|
 |22.02.08|백준|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🔵|
 |22.02.08|백준|[가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)|🔵|
+|22.02.09|백준|[포도주 시식](https://www.acmicpc.net/problem/2156)|🔴|
