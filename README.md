@@ -98,3 +98,4 @@
 |22.02.13|백준|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🔵|
 |22.02.13|백준|[퇴사](https://www.acmicpc.net/problem/14501)|🔴|
 |22.02.13|백준|[01타일](https://www.acmicpc.net/problem/1904)|🔵|
+|22.02.13|백준|[카드 구매하기](https://www.acmicpc.net/problem/11052)|🔵|
