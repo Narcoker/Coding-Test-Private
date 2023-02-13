@@ -94,3 +94,4 @@
 |22.02.09|백준|[정수 삼각형](https://www.acmicpc.net/problem/1932)|🔵|
 |22.02.10|백준|[곱셈](https://www.acmicpc.net/problem/1629)|🔴|
 |22.02.10|백준|[트리 순회](https://www.acmicpc.net/problem/1991)|🔵|
+|22.02.10|백준|[후위 표기식](https://www.acmicpc.net/problem/1918)|🔵|
