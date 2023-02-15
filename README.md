@@ -100,3 +100,4 @@
 |22.02.13|백준|[01타일](https://www.acmicpc.net/problem/1904)|🔵|
 |22.02.13|백준|[카드 구매하기](https://www.acmicpc.net/problem/11052)|🔵|
 |22.02.15|백준|[오르막 수](https://www.acmicpc.net/problem/11057)|🔵|
+|22.02.15|백준|[Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500)|🔵|
