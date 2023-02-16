@@ -104,3 +104,4 @@
 |22.02.16|백준|[카드 구매하기 2](https://www.acmicpc.net/problem/16194)|🔵|
 |22.02.16|백준|[1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)|🔵|
 |22.02.16|백준|[2×n 타일링](https://www.acmicpc.net/problem/11726)|🔵|
+|22.02.16|백준|[연속합](https://www.acmicpc.net/problem/1912)|🔵|
