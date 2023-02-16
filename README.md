@@ -101,4 +101,5 @@
 |22.02.13|백준|[카드 구매하기](https://www.acmicpc.net/problem/11052)|🔵|
 |22.02.15|백준|[오르막 수](https://www.acmicpc.net/problem/11057)|🔵|
 |22.02.15|백준|[Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500)|🔵|
-|22.02.16|백준|[카드 구매매하기 2](https://www.acmicpc.net/problem/16194)|🔵|
+|22.02.16|백준|[카드 구매하기 2](https://www.acmicpc.net/problem/16194)|🔵|
+|22.02.16|백준|[1,2,3 더하기 5](https://www.acmicpc.net/problem/15990)|🔵|
