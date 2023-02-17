@@ -107,3 +107,4 @@
 |22.02.16|백준|[연속합](https://www.acmicpc.net/problem/1912)|🔵|
 |22.02.16|백준|[연속합 2](https://www.acmicpc.net/problem/13398)|🔴|
 |22.02.17|백준|[1,2,3 더하기 3](https://www.acmicpc.net/problem/15988)|🔵|
+|22.02.17|백준|[가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)|🔵|
