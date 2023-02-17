@@ -106,3 +106,4 @@
 |22.02.16|백준|[2×n 타일링](https://www.acmicpc.net/problem/11726)|🔵|
 |22.02.16|백준|[연속합](https://www.acmicpc.net/problem/1912)|🔵|
 |22.02.16|백준|[연속합 2](https://www.acmicpc.net/problem/13398)|🔴|
+|22.02.17|백준|[1,2,3 더하기 3](https://www.acmicpc.net/problem/15988)|🔵|
