@@ -110,3 +110,4 @@
 |22.02.17|백준|[가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)|🔵|
 |22.02.17|백준|[제곱수의 합](https://www.acmicpc.net/problem/1699)|🔴|
 |22.03.08|백준|[ABCDE](https://www.acmicpc.net/problem/13023)|🔴|
+|22.03.09|백준|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|🔵|
