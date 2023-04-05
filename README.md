@@ -113,3 +113,4 @@
 |22.03.09|백준|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|🔵|
 |22.03.09|백준|[이분 그래프](https://www.acmicpc.net/problem/1707)|🔵|
 |22.04.05|백준|[테트로미노](https://www.acmicpc.net/problem/14500)|🔵|
+|22.04.05|백준|[로봇청소기](https://www.acmicpc.net/problem/14503)|🔵|
