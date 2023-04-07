@@ -115,3 +115,4 @@
 |23.04.05|백준|[테트로미6노](https://www.acmicpc.net/problem/14500)|🔵|
 |23.04.05|백준|[로봇청소기](https://www.acmicpc.net/problem/14503)|🔵|
 |23.04.06|백준|[아기 상어](https://www.acmicpc.net/problem/16236)|🔵|
+|23.04.06|백준|[나무 재테크](https://www.acmicpc.net/problem/16236)|🔴|
