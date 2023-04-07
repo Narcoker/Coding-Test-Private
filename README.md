@@ -118,3 +118,4 @@
 |23.04.06|백준|[나무 재테크](https://www.acmicpc.net/problem/16236)|🔴|
 |23.04.07|백준|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|🔵|
 |23.04.07|백준|[인구 이동](https://www.acmicpc.net/problem/16234)|🔴|
+|23.04.07|백준|[생일](https://www.acmicpc.net/problem/5635)|🔵|
