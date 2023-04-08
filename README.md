@@ -15,6 +15,7 @@
 #### Site
 - 프로그래머스
 - 백준
+- SWEA
 
 ## ⭐Solved⭐
 |날짜|문제 제공|문제명|상태|
@@ -119,3 +120,6 @@
 |23.04.07|백준|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|🔵|
 |23.04.07|백준|[인구 이동](https://www.acmicpc.net/problem/16234)|🔴|
 |23.04.07|백준|[생일](https://www.acmicpc.net/problem/5635)|🔵|
+|23.04.08|SWEA|[요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|🔵|
+|23.04.08|SWEA|[특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH&categoryId=AWIeV9sKkcoDFAVH&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|🔵|
+|23.04.08|SWEA|[탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=PASS_RATE&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|🔴|
