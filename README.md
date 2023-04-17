@@ -126,3 +126,4 @@
 |23.04.08|백준|[스타트와 링크](https://www.acmicpc.net/problem/14889)|🔵|
 |23.04.08|백준|[톱니바퀴](https://www.acmicpc.net/problem/14891)|🔵|
 |23.04.17|백준|[토마토](https://www.acmicpc.net/problem/7576)|🔵|
+|23.04.17|백준|[토마토](https://www.acmicpc.net/problem/7569)|🔵|
