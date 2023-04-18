@@ -128,3 +128,4 @@
 |23.04.17|백준|[토마토](https://www.acmicpc.net/problem/7576)|🔵|
 |23.04.17|백준|[토마토](https://www.acmicpc.net/problem/7569)|🔵|
 |23.04.18|백준|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|🔴|
+|23.04.18|백준|[이모티콘](https://www.acmicpc.net/problem/14226)|🔴|
