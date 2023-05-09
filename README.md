@@ -131,4 +131,5 @@
 |23.04.18|백준|[이모티콘](https://www.acmicpc.net/problem/14226)|🔴|
 |23.04.19|백준|[숨바꼭질 4](https://www.acmicpc.net/problem/13913)|🔴|
 |23.04.19|백준|[탈출](https://www.acmicpc.net/problem/3055)|🔴|
-|23.05.06|프로그래머스|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|🔴|
+|23.05.06|프로그래머스|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|🔴|
+|23.05.07|프로그래머스|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|🔴|
