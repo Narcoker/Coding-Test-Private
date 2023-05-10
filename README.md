@@ -136,3 +136,4 @@
 |23.05.09|프로그래머스|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|🔵|
 |23.05.09|프로그래머스|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|🔴|
 |23.05.10|프로그래머스|[이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368#qna)|🔵|
+|23.05.10|프로그래머스|[[1차] 프렌즈 블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|🔵|
