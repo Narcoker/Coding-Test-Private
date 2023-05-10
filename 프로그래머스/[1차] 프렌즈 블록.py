@@ -9,7 +9,7 @@ def solution(m, n, board):
         target = set()
         for row in range(0, m - 1):
             for col in range(0, n - 1):
-                block = board[row][col] != "X" \
+                block = board[row][col] != " " \
                         and board[row][col] == board[row][col + 1] \
                         and board[row][col] == board[row + 1][col] \
                         and board[row][col] == board[row + 1][col + 1]
@@ -25,18 +25,15 @@ def solution(m, n, board):
         answer += len(target)
 
         for row, col in target:
-            board[row][col] = "X"
+            board[row][col] = " "
 
-        for row in range(0, m-1):
+        for row in range(m-2, -1, -1):
             for col in range(n):
-                next_y = row
-                while next_y + 1 < m and board[next_y + 1][col] == "X":
-                    next_y += 1
-                if next_y != row:
-                    board[next_y][col] = board[row][col]
-                    board[row][col] = "X"
-        for row in board:
-            print(row)
-        print("")
+                if board[row][col] != " ":
+                    target_y = row
+                    while target_y + 1 < m and board[target_y + 1][col] == " ":
+                        board[target_y + 1][col] = board[target_y][col]
+                        board[target_y][col] = " "
+                        target_y += 1
 
     return answer
