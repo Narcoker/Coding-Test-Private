@@ -139,3 +139,4 @@
 |23.05.10|프로그래머스|[[1차] 프렌즈 블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|🔵|
 |23.05.10|프로그래머스|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|🔵|
 |23.05.11|프로그래머스|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|🔵|
+|23.12.20|백준|[파티](https://www.acmicpc.net/problem/7569)|🔴|
