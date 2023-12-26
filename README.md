@@ -141,3 +141,5 @@
 |23.05.11|프로그래머스|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|🔵|
 |23.12.20|백준|[파티](https://www.acmicpc.net/problem/7569)|🔴|
 |23.12.20|백준|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|🔵|
+|23.12.21|백준|[가장 긴 증가하는 부분 수열 ](https://www.acmicpc.net/problem/11053)|🔵|
+
