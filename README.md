@@ -146,3 +146,4 @@
 |23.12.27|백준|[다리놓기](https://www.acmicpc.net/problem/1010)|🔵|
 |23.12.28|백준|[스티커](https://www.acmicpc.net/problem/9465)|🔴|
 |24.01.08|프로그래머스|[단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|🔵|
+|23.01.08|백준|[회전하는 큐](https://www.acmicpc.net/problem/1021)|🔵|
