@@ -144,3 +144,5 @@
 |23.12.21|백준|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🔵|
 |23.12.26|프로그래머스|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|🔵|
 |23.12.27|백준|[다리놓기](https://www.acmicpc.net/problem/1010)|🔵|
+|23.12.28|백준|[스티커](https://www.acmicpc.net/problem/9465)|🔴|
+|24.01.08|프로그래머스|[단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|🔵|
