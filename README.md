@@ -150,4 +150,5 @@
 |23.01.08|백준|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🔴|
 |23.01.08|백준|[이동하기](https://www.acmicpc.net/problem/11048)|🔴|
 |23.01.11|백준|[괄호의 값](https://www.acmicpc.net/problem/2504)|🔵|
+|23.01.11|백준|[미로 만들기](https://www.acmicpc.net/problem/1347)|🔵|
 
