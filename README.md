@@ -149,4 +149,5 @@
 |23.01.08|백준|[회전하는 큐](https://www.acmicpc.net/problem/1021)|🔵|
 |23.01.08|백준|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🔴|
 |23.01.08|백준|[이동하기](https://www.acmicpc.net/problem/11048)|🔴|
+|23.01.11|백준|[괄호의 값](https://www.acmicpc.net/problem/2504)|🔵|
 
