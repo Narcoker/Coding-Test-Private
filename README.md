@@ -152,3 +152,4 @@
 |23.01.11|백준|[괄호의 값](https://www.acmicpc.net/problem/2504)|🔵|
 |23.01.11|백준|[미로 만들기](https://www.acmicpc.net/problem/1347)|🔵|
 |23.03.02|프로그래머스|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|🔵|
+|23.03.04|프로그래머스|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|🔵|
