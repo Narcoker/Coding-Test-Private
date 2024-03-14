@@ -155,3 +155,4 @@
 |23.03.04|프로그래머스|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|🔵|
 |23.03.11|프로그래머스|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|🔵|
 |23.03.11|프로그래머스|[등굣실](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|🔵|
+|23.03.14|프로그래머스|[명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|🔵|
