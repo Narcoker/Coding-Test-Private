@@ -159,4 +159,5 @@
 |23.03.14|프로그래머스|[명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|🔵|
 |23.03.14|프로그래머스|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|🔵|
 |23.03.19|코드트리|[포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret)|🔵|
-|23.03.20|코드트리|[왕실의 기사 대결](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20)|🔵|
+|23.03.20|코드트리|[왕실의 기사 대결](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20)|🔴|
+|23.03.25|프로그래머스|[입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|🔴|
