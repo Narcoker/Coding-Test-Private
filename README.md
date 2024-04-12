@@ -147,20 +147,22 @@
 |23.12.27|백준|[다리놓기](https://www.acmicpc.net/problem/1010)|🔵|
 |23.12.28|백준|[스티커](https://www.acmicpc.net/problem/9465)|🔴|
 |24.01.08|프로그래머스|[단어변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|🔵|
-|23.01.08|백준|[회전하는 큐](https://www.acmicpc.net/problem/1021)|🔵|
-|23.01.08|백준|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🔴|
-|23.01.08|백준|[이동하기](https://www.acmicpc.net/problem/11048)|🔴|
-|23.01.11|백준|[괄호의 값](https://www.acmicpc.net/problem/2504)|🔵|
-|23.01.11|백준|[미로 만들기](https://www.acmicpc.net/problem/1347)|🔵|
-|23.03.02|프로그래머스|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|🔵|
-|23.03.04|프로그래머스|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|🔵|
-|23.03.11|프로그래머스|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|🔵|
-|23.03.11|프로그래머스|[등굣실](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|🔵|
-|23.03.14|프로그래머스|[명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|🔵|
-|23.03.14|프로그래머스|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|🔵|
-|23.03.19|코드트리|[포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret)|🔵|
-|23.03.20|코드트리|[왕실의 기사 대결](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20)|🔴|
-|23.03.25|프로그래머스|[입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|🔴|
-|23.03.25|프로그래머스|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|🔴|
-|23.04.09|백준|[2048](https://www.acmicpc.net/problem/12100)|🔵|
-|23.04.11|백준|[청소년 상어](https://www.acmicpc.net/problem/19236)|🔵|
+|24.01.08|백준|[회전하는 큐](https://www.acmicpc.net/problem/1021)|🔵|
+|24.01.08|백준|[평범한 배낭](https://www.acmicpc.net/problem/12865)|🔴|
+|24.01.08|백준|[이동하기](https://www.acmicpc.net/problem/11048)|🔴|
+|24.01.11|백준|[괄호의 값](https://www.acmicpc.net/problem/2504)|🔵|
+|24.01.11|백준|[미로 만들기](https://www.acmicpc.net/problem/1347)|🔵|
+|24.03.02|프로그래머스|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|🔵|
+|24.03.04|프로그래머스|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|🔵|
+|24.03.11|프로그래머스|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|🔵|
+|24.03.11|프로그래머스|[등굣실](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|🔵|
+|24.03.14|프로그래머스|[명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|🔵|
+|24.03.14|프로그래머스|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|🔵|
+|24.03.19|코드트리|[포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret)|🔵|
+|24.03.20|코드트리|[왕실의 기사 대결](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20)|🔴|
+|24.03.25|프로그래머스|[입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|🔴|
+|24.03.25|프로그래머스|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|🔴|
+|24.04.09|백준|[2048](https://www.acmicpc.net/problem/12100)|🔵|
+|24.04.11|백준|[청소년 상어](https://www.acmicpc.net/problem/19236)|🔵|
+|24.04.12|백준|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)|🔵|
+|24.04.12|SWEA|[디저트 카페](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)|🔵|
