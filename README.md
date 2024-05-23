@@ -168,3 +168,4 @@
 |24.04.12|SWEA|[디저트 카페](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)|🔵|
 |24.04.26|코드트리|[마법의 숲 탐색](https://www.codetree.ai/training-field/frequent-problems/problems/magical-forest-exploration/submissions?page=1&pageSize=20)|🔵|
 |24.05.22|프로그래머스|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|🔵|
+|24.05.23|프로그래머스|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|🔵|
