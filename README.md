@@ -170,5 +170,7 @@
 |24.05.22|프로그래머스|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|🔵|
 |24.05.23|프로그래머스|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|🔵|
 |24.05.23|백준|[부분 수열의 합](https://www.acmicpc.net/problem/1182)|🔵|
-|24.05.24|프로그래머스|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|🔵|
+|24.05.24|프로그래머스|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|🔴|
+|24.05.24|프로그래머스|[모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)|🔴|
+
 
