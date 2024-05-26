@@ -174,4 +174,4 @@
 |24.05.24|프로그래머스|[모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)|🔴|
 |24.05.25|프로그래머스|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|🔵|
 |24.05.25|프로그래머스|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|🔵|
-
+|24.05.25|프로그래머스|[올바른 괄호 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|🔵|
