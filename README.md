@@ -180,4 +180,6 @@
 |24.05.29|프로그래머스|[리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|🔵|
 |24.05.29|프로그래머스|[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|🔴|
 |24.05.30|프로그래머스|[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|🔴|
+|24.05.31|프로그래머스|[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|🔵|
+|24.06.03|프로그래머스|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|🔴|
 
