@@ -183,4 +183,4 @@
 |24.05.31|프로그래머스|[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|🔵|
 |24.06.03|프로그래머스|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|🔴|
 |24.06.13|백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|🔵|
-
+|24.06.13|백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|🔵|
