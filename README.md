@@ -185,3 +185,4 @@
 |24.06.13|백준|[랜선 자르기](https://www.acmicpc.net/problem/1654)|🔵|
 |24.06.13|백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|🔵|
 |24.06.13|백준|[예산](https://www.acmicpc.net/problem/2512)|🔵|
+|24.06.14|백준|[과자 나눠주기](https://www.acmicpc.net/problem/16401)|🔵|
