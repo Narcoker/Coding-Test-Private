@@ -186,3 +186,4 @@
 |24.06.13|백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|🔵|
 |24.06.13|백준|[예산](https://www.acmicpc.net/problem/2512)|🔵|
 |24.06.14|백준|[과자 나눠주기](https://www.acmicpc.net/problem/16401)|🔵|
+|24.06.17|백준|[공유기 설치](https://www.acmicpc.net/problem/2110)|🔴|
