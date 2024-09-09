@@ -191,3 +191,4 @@
 |24.09.09|백준|[피로도](https://www.acmicpc.net/problem/22864)|🔵|
 |24.09.09|백준|[거스름돈](https://www.acmicpc.net/problem/5585)|🔵|
 |24.09.09|백준|[주유소](https://www.acmicpc.net/problem/13305)|🔴|
+|24.09.09|백준|[신입 사원](https://www.acmicpc.net/problem/1946)|🔴|
