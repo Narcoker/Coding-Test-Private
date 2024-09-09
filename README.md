@@ -190,3 +190,4 @@
 |24.06.17|백준|[휴게소 세우기](https://www.acmicpc.net/problem/1477)|🔴|
 |24.09.09|백준|[피로도](https://www.acmicpc.net/problem/22864)|🔵|
 |24.09.09|백준|[거스름돈](https://www.acmicpc.net/problem/5585)|🔵|
+|24.09.09|백준|[주유소](https://www.acmicpc.net/problem/13305)|🔴|
