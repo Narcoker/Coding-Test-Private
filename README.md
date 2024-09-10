@@ -195,3 +195,4 @@
 |24.09.09|백준|[주식](https://www.acmicpc.net/problem/11501)|🔵|
 |24.09.09|백준|[박 터트리기](https://www.acmicpc.net/problem/19939)|🔴|
 |24.09.10|백준|[보물](https://www.acmicpc.net/problem/1026)|🔵|
+|24.09.10|백준|[ATM](https://www.acmicpc.net/problem/11399)|🔵|
