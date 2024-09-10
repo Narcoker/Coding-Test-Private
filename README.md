@@ -196,3 +196,4 @@
 |24.09.09|백준|[박 터트리기](https://www.acmicpc.net/problem/19939)|🔴|
 |24.09.10|백준|[보물](https://www.acmicpc.net/problem/1026)|🔵|
 |24.09.10|백준|[ATM](https://www.acmicpc.net/problem/11399)|🔵|
+|24.09.10|백준|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|🔵|
