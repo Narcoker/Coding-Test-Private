@@ -199,3 +199,4 @@
 |24.09.10|백준|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|🔵|
 |24.09.10|백준|[회의실 배정](https://www.acmicpc.net/problem/1931)|🔵|
 |24.09.20|백준|[강의실 배정](https://www.acmicpc.net/problem/11000)|🔴|
+|24.09.20|백준|[로프](https://www.acmicpc.net/problem/2217)|🔵|
