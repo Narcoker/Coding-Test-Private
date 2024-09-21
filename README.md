@@ -200,3 +200,4 @@
 |24.09.10|백준|[회의실 배정](https://www.acmicpc.net/problem/1931)|🔵|
 |24.09.20|백준|[강의실 배정](https://www.acmicpc.net/problem/11000)|🔴|
 |24.09.20|백준|[로프](https://www.acmicpc.net/problem/2217)|🔵|
+|24.09.21|백준|[A → B](https://www.acmicpc.net/problem/16953)|🔵|
