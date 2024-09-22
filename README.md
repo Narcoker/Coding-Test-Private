@@ -201,3 +201,5 @@
 |24.09.20|백준|[강의실 배정](https://www.acmicpc.net/problem/11000)|🔴|
 |24.09.20|백준|[로프](https://www.acmicpc.net/problem/2217)|🔵|
 |24.09.21|백준|[A → B](https://www.acmicpc.net/problem/16953)|🔵|
+|24.09.22|백준|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|🔴|
+
