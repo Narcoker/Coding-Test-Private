@@ -204,5 +204,6 @@
 |24.09.22|백준|[카드 정렬하기](https://www.acmicpc.net/problem/1715)|🔴|
 |24.09.24|백준|[암호 만들기](https://www.acmicpc.net/problem/1759)|🔵|
 |24.09.26|백준|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🔴|
-|24.09.26|백준|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)|🔴|
-
+|24.09.26|백준|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)|🔵|
+|24.09.26|백준|[가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216)|🔵|
+|24.09.26|백준|[부분 수열의 합](https://www.acmicpc.net/problem/14225)|🔵|
