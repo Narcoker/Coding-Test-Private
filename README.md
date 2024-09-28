@@ -207,3 +207,4 @@
 |24.09.26|백준|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)|🔵|
 |24.09.26|백준|[가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216)|🔵|
 |24.09.26|백준|[부분 수열의 합](https://www.acmicpc.net/problem/14225)|🔵|
+|24.09.28|백준|[비밀번호 발음하기](https://www.acmicpc.net/problem/6189)|🔵|
