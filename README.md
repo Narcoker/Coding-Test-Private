@@ -210,4 +210,4 @@
 |24.09.28|백준|[비밀번호 발음하기](https://www.acmicpc.net/problem/6189)|🔵|
 |24.09.28|백준|[줄세우기](https://www.acmicpc.net/problem/10431)|🔵|
 |24.09.28|백준|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|🔵|
-
+|24.09.28|백준|[A와 B 2](https://www.acmicpc.net/problem/12919)|🔴|
