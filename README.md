@@ -211,3 +211,4 @@
 |24.09.28|백준|[줄세우기](https://www.acmicpc.net/problem/10431)|🔵|
 |24.09.28|백준|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|🔵|
 |24.09.28|백준|[A와 B 2](https://www.acmicpc.net/problem/12919)|🔴|
+|24.10.01|프로그래머스|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|🔵|
