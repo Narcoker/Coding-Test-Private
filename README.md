@@ -213,3 +213,6 @@
 |24.09.28|백준|[A와 B 2](https://www.acmicpc.net/problem/12919)|🔴|
 |24.10.01|프로그래머스|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|🔵|
 |24.10.01|프로그래머스|[연속 펄수 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|🔴|
+|24.10.01|프로그래머스|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|🔵|
+|24.10.05|프로그래머스|[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|🔴|
+
