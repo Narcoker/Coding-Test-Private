@@ -215,4 +215,7 @@
 |24.10.01|프로그래머스|[연속 펄수 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|🔴|
 |24.10.01|프로그래머스|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/161988)|🔵|
 |24.10.05|프로그래머스|[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|🔴|
+|24.10.07|코드트리|[메이즈 러너](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description?page=2&pageSize=5)|🔵|
+
+
 
