@@ -217,5 +217,6 @@
 |24.10.05|프로그래머스|[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|🔴|
 |24.10.07|코드트리|[메이즈 러너](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description?page=2&pageSize=5)|🔵|
 |24.10.08|코드트리|[고대 유적 탐사](https://www.codetree.ai/training-field/frequent-problems/problems/ancient-ruin-exploration/explanation?page=1&pageSize=5)|🔵|
-
+|24.10.09|코드트리|[싸움땅](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=3&pageSize=5)|🔵|
+|24.10.12|코드트리|[마법의 숲 탐색](https://www.codetree.ai/training-field/frequent-problems/problems/magical-forest-exploration/submissions?page=1&pageSize=20)|🔵|
 
