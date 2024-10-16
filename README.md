@@ -220,4 +220,5 @@
 |24.10.09|코드트리|[싸움땅](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=3&pageSize=5)|🔵|
 |24.10.12|코드트리|[마법의 숲 탐색](https://www.codetree.ai/training-field/frequent-problems/problems/magical-forest-exploration/submissions?page=1&pageSize=20)|🔵|
 |24.10.15|프로그래머스|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|🔵|
+|24.10.16|프로그래머스|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|🔵|
 
