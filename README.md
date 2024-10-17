@@ -223,4 +223,5 @@
 |24.10.16|프로그래머스|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|🔵|
 |24.10.16|프로그래머스|[스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|🔴|
 |24.10.16|프로그래머스|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|🔵|
+|24.10.17|프로그래머스|[징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)|🔴|
 
