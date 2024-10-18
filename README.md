@@ -226,4 +226,6 @@
 |24.10.17|프로그래머스|[징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)|🔴|
 |24.10.17|백준|[공유기 설치](https://www.acmicpc.net/problem/2110)|🔴|
 |24.10.17|백준|[나무 자르기](https://www.acmicpc.net/problem/2805)|🔵|
+|24.10.19|프로그래머스|[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|🔴|
+
 
