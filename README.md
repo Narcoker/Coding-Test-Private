@@ -234,3 +234,4 @@
 |24.10.23|백준|[N과 M(6)](https://www.acmicpc.net/problem/15655)|🔵|
 |24.10.23|백준|[N과 M(7)](https://www.acmicpc.net/problem/15656)|🔵|
 |24.10.23|백준|[N과 M(8)](https://www.acmicpc.net/problem/15657)|🔵|
+|24.10.23|백준|[N과 M(9)](https://www.acmicpc.net/problem/15663)|🔵|
