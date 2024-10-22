@@ -230,5 +230,6 @@
 |24.10.23|백준|[N과 M(2)](https://www.acmicpc.net/problem/15650)|🔵|
 |24.10.23|백준|[N과 M(3)](https://www.acmicpc.net/problem/15651)|🔵|
 |24.10.23|백준|[N과 M(4)](https://www.acmicpc.net/problem/15652)|🔵|
+|24.10.23|백준|[N과 M(5)](https://www.acmicpc.net/problem/15654)|🔵|
 
 
