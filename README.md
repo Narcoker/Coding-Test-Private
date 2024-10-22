@@ -229,5 +229,6 @@
 |24.10.19|프로그래머스|[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|🔴|
 |24.10.23|백준|[N과 M(2)](https://www.acmicpc.net/problem/15650)|🔵|
 |24.10.23|백준|[N과 M(3)](https://www.acmicpc.net/problem/15651)|🔵|
+|24.10.23|백준|[N과 M(4)](https://www.acmicpc.net/problem/15652)|🔵|
 
 
