@@ -238,4 +238,5 @@
 |24.10.23|백준|[N과 M(10)](https://www.acmicpc.net/problem/15664)|🔵|
 |24.10.23|백준|[N과 M(11)](https://www.acmicpc.net/problem/15665)|🔵|
 |24.10.23|백준|[N과 M(12)](https://www.acmicpc.net/problem/15666)|🔵|
+|24.10.23|프로그래머스|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|🔴|
 
