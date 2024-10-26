@@ -241,3 +241,5 @@
 |24.10.23|백준|[N과 M(12)](https://www.acmicpc.net/problem/15666)|🔵|
 |24.10.23|프로그래머스|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|🔴|
 |24.10.26|현대소프티어|[나무 섭지](https://softeer.ai/app/assessment/index.html?xid=141807&xsrfToken=69nbEsFzjsYv2GC63VLzPMAv9Jnq4sHr&testType=practice)|🔴|
+|24.10.26|현대소프티어|[장애물 인식 프로그램](https://softeer.ai/app/assessment/index.html?xid=278774&xsrfToken=T3OkZ68TANhaRMDkQkZvhRTT61rDiZOo&testType=practice)|🔵|
+
