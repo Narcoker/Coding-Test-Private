@@ -17,6 +17,7 @@
 - 백준
 - SWEA
 - 코드트리
+- 현대소프티어
 
 ## ⭐Solved⭐
 |날짜|문제 제공|문제명|상태|
@@ -239,4 +240,4 @@
 |24.10.23|백준|[N과 M(11)](https://www.acmicpc.net/problem/15665)|🔵|
 |24.10.23|백준|[N과 M(12)](https://www.acmicpc.net/problem/15666)|🔵|
 |24.10.23|프로그래머스|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|🔴|
-
+|24.10.26|현대소프티어|[나무 섭지](https://softeer.ai/app/assessment/index.html?xid=141807&xsrfToken=69nbEsFzjsYv2GC63VLzPMAv9Jnq4sHr&testType=practice)|🔴|
