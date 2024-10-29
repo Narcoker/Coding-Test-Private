@@ -244,4 +244,5 @@
 |24.10.26|현대소프티어|[장애물 인식 프로그램](https://softeer.ai/app/assessment/index.html?xid=278774&xsrfToken=T3OkZ68TANhaRMDkQkZvhRTT61rDiZOo&testType=practice)|🔵|
 |24.10.27|현대소프티어|[함께하는 효도](https://softeer.ai/app/assessment/index.html?xid=213457&xsrfToken=WCr9rY4uu3IBkI6AsuF1OY2k50u9YBM7&testType=practice)|🔵|
 |24.10.29|현대소프티어|[순서대로 방문하기](https://softeer.ai/app/assessment/index.html?xid=281057&xsrfToken=MBgwIon3FY0dSQTcJzDgxRQaiYq7tg1f&testType=practice)|🔵|
+|24.10.29|현대소프티어|[출퇴근길](https://softeer.ai/app/assessment/index.html?xid=281057&xsrfToken=MBgwIon3FY0dSQTcJzDgxRQaiYq7tg1f&testType=practice)|🔴|
 
