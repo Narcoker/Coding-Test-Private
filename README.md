@@ -247,3 +247,4 @@
 |24.10.29|현대소프티어|[출퇴근길](https://softeer.ai/app/assessment/index.html?xid=281057&xsrfToken=MBgwIon3FY0dSQTcJzDgxRQaiYq7tg1f&testType=practice)|🔴|
 |24.10.29|현대소프티어|[자동차 테스트](https://softeer.ai/app/assessment/index.html?xid=281009&xsrfToken=hWZO390wfl6cytwud7hjTfcDyvLxmWT9&testType=practice)|🔵|
 |24.10.29|현대소프티어|[성적 평가](https://softeer.ai/app/assessment/index.html?xid=281185&xsrfToken=dx8K6s5T6IWNmFOWVlbTb1UbiKr9TfCT&testType=practice)|🔵|
+|24.10.31|현대소프티어|[업무 처리](https://softeer.ai/app/assessment/index.html?xid=281185&xsrfToken=dx8K6s5T6IWNmFOWVlbTb1UbiKr9TfCT&testType=practice)|🔴|
