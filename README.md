@@ -249,3 +249,4 @@
 |24.10.29|현대소프티어|[성적 평가](https://softeer.ai/app/assessment/index.html?xid=281185&xsrfToken=dx8K6s5T6IWNmFOWVlbTb1UbiKr9TfCT&testType=practice)|🔵|
 |24.10.31|현대소프티어|[업무 처리](https://softeer.ai/app/assessment/index.html?xid=281185&xsrfToken=dx8K6s5T6IWNmFOWVlbTb1UbiKr9TfCT&testType=practice)|🔴|
 |24.10.31|현대소프티어|[플레이페어 암호](https://softeer.ai/app/assessment/index.html?xid=312284&xsrfToken=DgdBr8sQSTRtCbc68klvSAxwMug83Msn&testType=practice)|🔵|
+|24.11.01|현대소프티어|[슈퍼컴퓨터 클러스터](https://softeer.ai/app/assessment/index.html?xid=315474&xsrfToken=8dLji00edDvwgd1dh4J2icPFL3271Jgq&testType=practice)|🔵|
