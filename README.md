@@ -251,3 +251,4 @@
 |24.10.31|현대소프티어|[플레이페어 암호](https://softeer.ai/app/assessment/index.html?xid=312284&xsrfToken=DgdBr8sQSTRtCbc68klvSAxwMug83Msn&testType=practice)|🔵|
 |24.11.01|현대소프티어|[슈퍼컴퓨터 클러스터](https://softeer.ai/app/assessment/index.html?xid=315474&xsrfToken=8dLji00edDvwgd1dh4J2icPFL3271Jgq&testType=practice)|🔵|
 |24.11.11|프로그래머스|[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)|🔴|
+|24.11.20|백준|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|🔴|
