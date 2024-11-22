@@ -253,3 +253,4 @@
 |24.11.11|프로그래머스|[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)|🔴|
 |24.11.20|백준|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|🔴|
 |24.11.21|백준|[벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)|🔴|
+|24.11.22|백준|[마인크래프트](https://www.acmicpc.net/problem/18111)|🔵|
