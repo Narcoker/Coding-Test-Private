@@ -256,3 +256,4 @@
 |24.11.22|백준|[마인크래프트](https://www.acmicpc.net/problem/18111)|🔵|
 |24.11.25|백준|[벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16946)|🔴|
 |23.11.26|백준|[포도주 시식](https://www.acmicpc.net/problem/2156)|🔴|
+|23.11.26|백준|[로봇청소기](https://www.acmicpc.net/problem/14503)|🔵|
