@@ -258,3 +258,4 @@
 |23.11.26|백준|[포도주 시식](https://www.acmicpc.net/problem/2156)|🔴|
 |23.11.26|백준|[로봇청소기](https://www.acmicpc.net/problem/14503)|🔵|
 |23.11.27|백준|[퇴사_2](https://www.acmicpc.net/problem/14501)|🔴|
+|23.11.27|백준|[계단 오르기](https://www.acmicpc.net/problem/2579)|🔵|
