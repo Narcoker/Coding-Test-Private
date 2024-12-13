@@ -263,3 +263,4 @@
 |23.11.28|프로그래머스|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|🔵|
 |23.11.29|프로그래머스|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|🔴|
 |24.11.29|백준|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🔴|
+|24.12.13|백준|[1로 만들기](https://www.acmicpc.net/problem/1463)|🔵|
