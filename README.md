@@ -266,4 +266,5 @@
 |24.12.13|백준|[1로 만들기](https://www.acmicpc.net/problem/1463)|🔵|
 |24.12.26|백준|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)|🔵|
 |24.12.27|백준|[카드 정렬하기기](https://www.acmicpc.net/problem/1715)|🔵|
+|24.12.27|백준|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|🔴|
 
