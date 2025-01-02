@@ -270,3 +270,4 @@
 |25.01.02|백준|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|🔵|
 |25.01.02|백준|[분해합](https://www.acmicpc.net/problem/2231)|🔵|
 |25.01.02|백준|[유레카 이론](https://www.acmicpc.net/problem/2231)|🔴|
+|25.01.02|백준|[사탕 게임임](https://www.acmicpc.net/problem/3085)|🔵|
