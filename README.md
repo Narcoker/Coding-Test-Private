@@ -269,4 +269,4 @@
 |24.12.27|백준|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|🔴|
 |25.01.02|백준|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|🔵|
 |25.01.02|백준|[분해합](https://www.acmicpc.net/problem/2231)|🔵|
-
+|25.01.02|백준|[유레카 이론](https://www.acmicpc.net/problem/2231)|🔴|
