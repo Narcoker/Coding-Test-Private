@@ -273,3 +273,4 @@
 |25.01.02|백준|[사탕 게임](https://www.acmicpc.net/problem/3085)|🔵|
 |25.01.08|백준|[부분수열의 합](https://www.acmicpc.net/problem/1182)|🔴|
 |25.01.08|백준|[Z](https://www.acmicpc.net/problem/1074)|🔴|
+|25.01.09|백준|[보물섬](https://www.acmicpc.net/problem/1074)|🔵|
