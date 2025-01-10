@@ -274,3 +274,4 @@
 |25.01.08|백준|[부분수열의 합](https://www.acmicpc.net/problem/1182)|🔴|
 |25.01.08|백준|[Z](https://www.acmicpc.net/problem/1074)|🔴|
 |25.01.09|백준|[보물섬](https://www.acmicpc.net/problem/1074)|🔵|
+|25.01.10|백준|[탑](https://www.acmicpc.net/problem/2493)|🔵|
