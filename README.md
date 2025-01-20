@@ -277,4 +277,4 @@
 |25.01.10|백준|[탑](https://www.acmicpc.net/problem/2493)|🔵|
 |25.01.10|백준|[제곱수 찾기](https://www.acmicpc.net/problem/1025)|🔴|
 |25.01.15|백준|[리모컨](https://www.acmicpc.net/problem/1107)|🔴|
-
+|25.01.20|백준|[A->B](https://www.acmicpc.net/problem/16953)|🔵|
