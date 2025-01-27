@@ -279,3 +279,5 @@
 |25.01.15|백준|[리모컨](https://www.acmicpc.net/problem/1107)|🔴|
 |25.01.20|백준|[A->B](https://www.acmicpc.net/problem/16953)|🔵|
 |25.01.20|백준|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|🔵|
+|25.01.27|백준|[회의실 배정](https://www.acmicpc.net/problem/1931)|🔵|
+
