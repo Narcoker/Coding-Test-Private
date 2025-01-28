@@ -283,3 +283,4 @@
 |25.01.28|백준|[색종이 만들기](https://www.acmicpc.net/problem/2630)|🔴|
 |25.01.28|백준|[물병](https://www.acmicpc.net/problem/1052)|🔴
 |25.01.28|현대소프티어|[우물 안 개구리](https://softeer.ai/app/assessment/index.html?xid=213853&xsrfToken=SNzVzruTufEBX07l6M8NxcDovqRG1Gyh&testType=practice)|🔵|
+|25.01.28|현대소프티어|[강의실 배정](https://softeer.ai/app/assessment/index.html?xid=357237&xsrfToken=0BU7Gug9LWedXVNMRkW7UWd4V3YF1mCi&testType=practice)|🔵|
