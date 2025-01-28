@@ -281,4 +281,4 @@
 |25.01.20|백준|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|🔵|
 |25.01.27|백준|[회의실 배정](https://www.acmicpc.net/problem/1931)|🔵|
 |25.01.28|백준|[색종이 만들기](https://www.acmicpc.net/problem/2630)|🔴|
-
+|25.01.28|백준|[물병](https://www.acmicpc.net/problem/1052)|🔴
