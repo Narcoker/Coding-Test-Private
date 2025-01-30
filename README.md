@@ -286,3 +286,4 @@
 |25.01.28|현대소프티어|[강의실 배정](https://softeer.ai/app/assessment/index.html?xid=357237&xsrfToken=0BU7Gug9LWedXVNMRkW7UWd4V3YF1mCi&testType=practice)|🔵|
 |25.01.29|백준|[빗물](https://www.acmicpc.net/problem/14719)|🔵|
 |25.01.29|백준|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|🔵|
+|25.01.30|백준|[쿼드트리](https://www.acmicpc.net/problem/1992)|🔵|
