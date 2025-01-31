@@ -287,3 +287,4 @@
 |25.01.29|백준|[빗물](https://www.acmicpc.net/problem/14719)|🔵|
 |25.01.29|백준|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|🔵|
 |25.01.30|백준|[쿼드트리](https://www.acmicpc.net/problem/1992)|🔵|
+|25.01.30|백준|[창고 다각형](https://www.acmicpc.net/problem/2304)|🔵|
