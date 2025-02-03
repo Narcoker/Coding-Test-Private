@@ -289,4 +289,5 @@
 |25.01.30|백준|[쿼드트리](https://www.acmicpc.net/problem/1992)|🔵|
 |25.01.31|백준|[창고 다각형](https://www.acmicpc.net/problem/2304)|🔵|
 |25.01.31|백준|[불!](https://www.acmicpc.net/problem/4179)|🔴|
-|25.02.-3|현대소프티어|[징검다리리](https://softeer.ai/app/assessment/index.html?xid=212882&xsrfToken=5jSD8Fx8TLUpl0uQFI3o2RxV2UgnthXX&testType=practice)|🔵|
+|25.02.03|현대소프티어|[징검다리리](https://softeer.ai/app/assessment/index.html?xid=212882&xsrfToken=5jSD8Fx8TLUpl0uQFI3o2RxV2UgnthXX&testType=practice)|🔵|
+|25.02.03|현대소프티어|[효도 여행](https://softeer.ai/app/assessment/index.html?xid=359574&xsrfToken=ToVSbASISokSLdfSjsePzHcIw62bvCSO&testType=practice)|🔴|
