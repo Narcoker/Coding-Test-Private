@@ -293,3 +293,4 @@
 |25.02.03|현대소프티어|[효도 여행](https://softeer.ai/app/assessment/index.html?xid=359574&xsrfToken=ToVSbASISokSLdfSjsePzHcIw62bvCSO&testType=practice)|🔴|
 |25.02.04|현대소프티어|[회의실 예약](https://softeer.ai/app/assessment/index.html?xid=360402&xsrfToken=iFlpX6kQoYJhGFf5QWkW0osEDw25AgUy&testType=practice)|🔵|
 |25.02.04|백준|[LCS 2](https://www.acmicpc.net/problem/9252)|🔵|
+|25.02.04|백준|[LCS 3](https://www.acmicpc.net/problem/1958)|🔴|
