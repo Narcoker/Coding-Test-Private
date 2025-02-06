@@ -294,3 +294,4 @@
 |25.02.04|현대소프티어|[회의실 예약](https://softeer.ai/app/assessment/index.html?xid=360402&xsrfToken=iFlpX6kQoYJhGFf5QWkW0osEDw25AgUy&testType=practice)|🔵|
 |25.02.04|백준|[LCS 2](https://www.acmicpc.net/problem/9252)|🔵|
 |25.02.04|백준|[LCS 3](https://www.acmicpc.net/problem/1958)|🔴|
+|25.02.06|백준|[동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)|🔵|
