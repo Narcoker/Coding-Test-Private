@@ -295,5 +295,5 @@
 |25.02.04|백준|[LCS 2](https://www.acmicpc.net/problem/9252)|🔵|
 |25.02.04|백준|[LCS 3](https://www.acmicpc.net/problem/1958)|🔴|
 |25.02.06|백준|[동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)|🔵|
-|25.02.06|백준|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|🔵|
-
+|25.02.06|백준|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|🔴|
+|25.02.06|백준|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|🔴|
