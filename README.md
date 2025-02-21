@@ -297,3 +297,4 @@
 |25.02.06|백준|[동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)|🔵|
 |25.02.06|백준|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|🔴|
 |25.02.06|백준|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|🔴|
+|25.02.21|프로그래머스|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|🔴|
